@@ -1,0 +1,8 @@
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\LogHelper\bin\Debug\LogHelper.dll
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\LogHelper\bin\Debug\LogHelper.pdb
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\LogHelper\bin\Debug\log4net.dll
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\LogHelper\bin\Debug\log4net.xml
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\LogHelper\obj\Debug\LogHelper.csproj.CoreCompileInputs.cache
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\LogHelper\obj\Debug\LogHelper.csproj.CopyComplete
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\LogHelper\obj\Debug\LogHelper.dll
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\LogHelper\obj\Debug\LogHelper.pdb

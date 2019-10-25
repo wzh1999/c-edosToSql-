@@ -1,0 +1,9 @@
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\ConsoleApp2\bin\Debug\eDosApiNet.dll
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache

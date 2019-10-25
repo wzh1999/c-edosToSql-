@@ -1,0 +1,8 @@
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\eDosToSqlservice\bin\x86\Debug\eDosToSqlservice.exe.config
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\eDosToSqlservice\bin\x86\Debug\eDosToSqlservice.exe
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\eDosToSqlservice\bin\x86\Debug\eDosToSqlservice.pdb
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\eDosToSqlservice\bin\x86\Debug\eDosApiNet.dll
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\eDosToSqlservice\obj\x86\Debug\eDosToSqlservice.csproj.CoreCompileInputs.cache
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\eDosToSqlservice\obj\x86\Debug\eDosToSqlservice.csproj.CopyComplete
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\eDosToSqlservice\obj\x86\Debug\eDosToSqlservice.exe
+F:\印步软件公司项目\取edos数据写入sql数据库\eDosToSqlservice\eDosToSqlservice\obj\x86\Debug\eDosToSqlservice.pdb
